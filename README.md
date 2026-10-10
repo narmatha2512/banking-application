@@ -30,7 +30,7 @@
 ## 📸 Screenshots
 *(Make sure file path matches your folder structure)*
 
-![Dashboard Screenshot](./assets/dashboard.png)
+![Banking App Preview](https://via.placeholder.com/800x400?text=Banking+Application+Preview)
 
 ---
 
@@ -39,4 +39,4 @@ Follow these steps to run the application locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+  git clone https://github.com/narmatha2512/banking-application.git
